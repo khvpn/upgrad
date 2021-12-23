@@ -1,0 +1,52 @@
+{
+//เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
+"Version":"1.4
+
+Covid19 ยินดีต้อนรับทุกท่าน 
+รายละเอียดอัพเดทเมื่อวันที่​ 15/07/64
+📶 Truemove / social *935*35#+กันอินเทอร์เน็ตรั่ว
+
+📶 Dtac /social/line12app/happy work +กันอินเทอร์เน็ตรั่ว (ยกเว้นโปร happy work ไม่ต้องมีโปรกันอินเทอร์เน็ตรั่ว)
+
+☑️อัพเดท ไฟล์ชิมทรูเรี่ยนฟรี TrueVirtualWorld
+  ไฟล์ที่ใช้เชื่อมต่อคือ TRUE-STUDY-365
+☑️อัพเดท ไฟล์ทรู Esoprt 
+☑️อัพเดท ไฟล์ทรู SOCIAL
+☑️อัพเดท DTAC LINE
+☑️อัพเดท DTAC HAPPYWORK
+☑️อัพเดท DTAC SOCIAL
+=====================================
+เชิร์ฟเวอร์ปัจจุบัน
+🇸🇬 Server SG
+🇨🇷 Server TH
+🇭🇰 Server HK
+🇯🇵 Server JP
+🇰🇷 Server KR
+🇺🇸 Server US
+🇻🇳 Server VN
+🌐 Server NordVPN
+
+#. อัพเดทไม่ได้​ ให้กดล้างข้อมูลแอพ​!!! 
+#. ในแอพพลิเคชั่น​ มีโฆษณา",
+//ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
+"Url":"https://sansoe.000webhostapp.com/OVPN.zip" ,
+"Changelog":"
+
+
+ 
+
+",
+ 
+ 
+ 
+ 
+ 
+ 
+//ไม่ต้องยุ่งด้านล่าง
+"latestVersion": "1.0.0",
+"latestVersionCode": "1",
+"url": "",
+ "releaseNotes": [
+ "-Demo"
+  ]
+}
